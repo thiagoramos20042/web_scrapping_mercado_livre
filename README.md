@@ -3,7 +3,7 @@
 
 A técnica de webscraping é uma prática comum na análise de dados e pode ser uma ferramenta valiosa para empresas e indivíduos que buscam coletar informações de sites da web. A técnica envolve a extração de dados estruturados e não estruturados de sites da web e armazenando esses dados para uso posterior.
 
-O processo de webscraping envolve a utilização de uma variedade de ferramentas e tecnologias, incluindo linguagens de programação como Python e Ruby, bibliotecas de web scraping como Beautiful Soup e Scrapy, e até mesmo plataformas automatizadas de web scraping.
+O processo de webscraping envolve a utilização de uma variedade de ferramentas e tecnologias, incluindo linguagens de programação como Python, bibliotecas de web scraping como Beautiful Soup e Scrapy, e até mesmo plataformas automatizadas de web scraping.
 
 Essa técnica é útil para uma série de aplicações de negócios, incluindo a análise da concorrência, o monitoramento de preços de produtos, a pesquisa de mercado e o acompanhamento de tendências. Ao coletar dados de vários sites, é possível obter uma visão mais ampla do mercado, compreender melhor os concorrentes e ajustar suas estratégias de negócios.
 
