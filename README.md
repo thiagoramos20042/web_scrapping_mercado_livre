@@ -12,7 +12,7 @@ No entanto, é importante ressaltar que a técnica de webscraping deve ser reali
 Em resumo, a técnica de webscraping pode ser uma ferramenta poderosa e valiosa para empresas e indivíduos que buscam coletar informações da web para análise e uso em seus negócios. No entanto, é importante que essa técnica seja utilizada com responsabilidade e ética, a fim de evitar consequências negativas.
 
 # Contexto de Negócio 
-Joana sempre sonhou em ser uma empreendedora e abrir sua própria loja online de roupas e acessórios. Ela sabia que o sucesso no mundo do ecommerce dependia de uma série de fatores, incluindo a análise da concorrência e preços de produtos.
+Joana sempre sonhou em ser uma empreendedora e abrir sua loja online de eletrônicos. Ela sabia que o sucesso no mundo do ecommerce dependia de uma série de fatores, incluindo a análise da concorrência e preços de produtos.
 
 Então, ela decidiu utilizar a técnica de web scraping para monitorar seus concorrentes e obter informações valiosas sobre seus preços e produtos. Utilizando essa técnica, ela foi capaz de extrair informações importantes como o nome do produto, preço, descrição, condição e localização dos concorrentes.
 
