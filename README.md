@@ -1,4 +1,5 @@
 # Web Scrapping Mercado Livre
+![alt text](https://certificadocursosonline.com/blog/wp-content/uploads/2020/05/como-comprar-no-mercado-livre.jpg)
 
 A técnica de webscraping é uma prática comum na análise de dados e pode ser uma ferramenta valiosa para empresas e indivíduos que buscam coletar informações de sites da web. A técnica envolve a extração de dados estruturados e não estruturados de sites da web e armazenando esses dados para uso posterior.
 
